@@ -27,9 +27,9 @@ In recent years, the range of funding options for projects created by individual
 his project focuses on the **F1-Score** as target metric. Evaluated Models and their F1 Score: 
 
 - **Random Forrest**: 0.812
-- Logistic Regression: 0.656
 - **XGBoost**: 0.787
 - **SVM**: 0.686
+- **Logistic Regression**: 0.656
 
 **Feature Importance** for Random Forrest
 
