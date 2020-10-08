@@ -35,8 +35,6 @@ his project focuses on the **F1-Score** as target metric. Evaluated Models and t
 
 ![FeatureImportance_Main_RandomForest](/Users/jonasjaenicke/nf-sep-20/training/SUCCESS_PREDICTION/figures/FeatureImportance_Main_RandomForest.png)
 
-
-
 ## Files
 
 - Slide deck as PDF for non-technical stakeholders (10min  presentation).
