@@ -1,4 +1,4 @@
-<img src="./training/SUCCESS_PREDICTION/figures/FeatureImportance_All_presentation_RandomForest2.png" alt="FeatureImportance_All_presentation_RandomForest2" style="zoom: 200%;" />
+<img src="./figures/FeatureImportance_All_presentation_RandomForest2.png" alt="FeatureImportance_All_presentation_RandomForest2" style="zoom: 200%;" />
 
 # KICKSTARTER - Predicting Campaign Success
 
