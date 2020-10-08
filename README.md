@@ -1,4 +1,4 @@
-<img src="/Users/jonasjaenicke/nf-sep-20/training/SUCCESS_PREDICTION/figures/FeatureImportance_All_presentation_RandomForest2.png" alt="FeatureImportance_All_presentation_RandomForest2" style="zoom: 200%;" />
+<img src="./training/SUCCESS_PREDICTION/figures/FeatureImportance_All_presentation_RandomForest2.png" alt="FeatureImportance_All_presentation_RandomForest2" style="zoom: 200%;" />
 
 # KICKSTARTER - Predicting Campaign Success
 
@@ -12,15 +12,15 @@ In recent years, the range of funding options for projects created by individual
 
 **Synthetic cap of number of occurrences** at about 2400 projects in an Subcategory. 
 
-![Number of Projects in each Subcategory](/Users/jonasjaenicke/nf-sep-20/training/__nf2/figures/count_total_category.png)
+![Number of Projects in each Subcategory](./figures/count_total_category.png)
 
 **Success by Subcategory** is very different for the most frequent subcategories
 
-![success_per_total_cat](/Users/jonasjaenicke/nf-sep-20/training/SUCCESS_PREDICTION/figures/success_per_total_cat.png)
+![success_per_total_cat](./figures/success_per_total_cat.png)
 
 **The number of backers** has a great correlation to the successrate
 
-<img src="/Users/jonasjaenicke/nf-sep-20/training/SUCCESS_PREDICTION/figures/success_rates_for_number_of_backers.png" alt="success_rates_for_number_of_backers" style="zoom:67%;" />
+<img src="./figures/success_rates_for_number_of_backers.png" alt="success_rates_for_number_of_backers" style="zoom:67%;" />
 
 ## Models 
 
@@ -33,7 +33,7 @@ his project focuses on the **F1-Score** as target metric. Evaluated Models and t
 
 **Feature Importance** for Random Forrest
 
-![FeatureImportance_Main_RandomForest](/Users/jonasjaenicke/nf-sep-20/training/SUCCESS_PREDICTION/figures/FeatureImportance_Main_RandomForest.png)
+![FeatureImportance_Main_RandomForest](./figures/FeatureImportance_Main_RandomForest.png)
 
 ## Files
 
