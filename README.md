@@ -41,6 +41,7 @@ his project focuses on the **F1-Score** as target metric. Evaluated Models and t
 - Jupyter notebook following PEP8 designed for data science / technical audience.
   - EDA notebook incl. Data Cleaning, Feature Engneering and Visualisation
   - MODELLING incl. Models, Visualisation on findings and recommendations 
+- df_model.pkl --> cleaned data as pickel data file
 
 ## Future Work
 
