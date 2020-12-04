@@ -11,8 +11,8 @@ In recent years, the range of funding options for projects created by individual
 ## Project Structure 
 
 - [SuccessPrediction_presentation.pdf](SuccessPrediction_presentation.pdf) presentation deck as PDF for non-technical stakeholders´
-- [SuccessPrediction_EDA.jpynb](SuccessPrediction_EDA.jpynb) EDA notebook incl. Data Cleaning, Feature Engneering and Visualisation (PEP8, technical audience)
-- [SuccessPrediction_ML.jpynb](SuccessPrediction_ML.jpynb) Machine Learning notebook incl. Models, Visualisation on findings and recommendations (PEP8, technical audience)
+- [SuccessPrediction_EDA.ipynb](SuccessPrediction_EDA.ipynb) EDA notebook incl. Data Cleaning, Feature Engneering and Visualisation (PEP8, technical audience)
+- [SuccessPrediction_ML.ipynb](SuccessPrediction_ML.ipynb) Machine Learning notebook incl. Models, Visualisation on findings and recommendations (PEP8, technical audience)
 - [df_model.pkl](df_model.pkl) --> cleaned data as pickel data file
 
 ## Data Exploration - Key Findings
