@@ -11,9 +11,9 @@ In recent years, the range of funding options for projects created by individual
 ## Project Structure 
 
 - [SuccessPrediction_presentation.pdf](SuccessPrediction_presentation.pdf) presentation deck as PDF for non-technical stakeholders´
-- [SuccessPrediction_EDA.ipynb](SuccessPrediction_EDA.ipynb) EDA notebook incl. Data Cleaning, Feature Engneering and Visualisation (PEP8, technical audience)
+- [SuccessPrediction_EDA.ipynb](SuccessPrediction_EDA.ipynb) Exploratory Data Analysis notebook incl. Data Cleaning, Feature Engneering and Visualisation (PEP8, technical audience)
 - [SuccessPrediction_ML.ipynb](SuccessPrediction_ML.ipynb) Machine Learning notebook incl. Models, Visualisation on findings and recommendations (PEP8, technical audience)
-- [df_model.pkl](df_model.pkl) --> cleaned data as pickel data file
+- [df_model.pkl](df_model.pkl) cleaned data as pickel data file
 
 ## Data Exploration - Key Findings
 
@@ -31,7 +31,7 @@ In recent years, the range of funding options for projects created by individual
 
 ## Models 
 
-his project focuses on the **F1-Score** as target metric. Evaluated Models and their F1 Score: 
+This project focuses on the **F1-Score** as target metric. Evaluated Models and their F1 Score: 
 
 - **Random Forrest**: 0.812
 - **XGBoost**: 0.787
@@ -41,6 +41,10 @@ his project focuses on the **F1-Score** as target metric. Evaluated Models and t
 **Feature Importance** for Random Forrest
 
 ![FeatureImportance_Main_RandomForest](./figures/FeatureImportance_Main_RandomForest.png)
+
+## Conclusion
+
+The Random Forrest model performes well for the given task with an f1-score of 0.8. As for the features: The category has the greatest influence on the success of a project. As part of the EDA,  the `median_avg_pledge_per_backer_in_subcat` feature is designed. This feature gives an understanding of how much money the average backer in an sub category is willing to back a project. This has great influence on the success rate of a project. 
 
 ## Future Work
 
