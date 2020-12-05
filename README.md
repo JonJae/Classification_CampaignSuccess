@@ -1,6 +1,8 @@
 <img src="./figures/FeatureImportance_All_presentation_RandomForest2.png" alt="FeatureImportance_All_presentation_RandomForest2" style="zoom: 200%;" />
 
-# KICKSTARTER - Predicting Campaign Success
+# KICKSTARTER - Predicting Campaign Success 
+** A classification problem**
+
 
 This is a small Data Science project as part of the Data Science bootcampt [neuefische](https://github.com/JonJae/nf_1st_project/blob/master/neuefische.de), Fall 2020.  The main aim of this project are a throughout Exploratory Data Analysis and the construction and validation of various Machine Learning Classification Models. 
 
