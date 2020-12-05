@@ -33,10 +33,11 @@ In recent years, the range of funding options for projects created by individual
 
 This project focuses on the **F1-Score** as target metric. Evaluated Models and their F1 Score: 
 
-- **Random Forrest**: 0.812
-- **XGBoost**: 0.787
-- **SVM**: 0.686
-- **Logistic Regression**: 0.656
+- **Random Forrest**: 0.81
+
+- **XGBoost**: 0.8
+- **SVM**: 0.69
+- **Logistic Regression**: 0.78
 
 **Feature Importance** for Random Forrest
 
@@ -44,7 +45,7 @@ This project focuses on the **F1-Score** as target metric. Evaluated Models and 
 
 ## Conclusion
 
-The Random Forrest model performes well for the given task with an f1-score of 0.8. As for the features: The category has the greatest influence on the success of a project. As part of the EDA,  the `median_avg_pledge_per_backer_in_subcat` feature is designed. This feature gives an understanding of how much money the average backer in an sub category is willing to back a project. This has great influence on the success rate of a project. 
+The Random Forrest model performes slightly better as the XGboost model, with an f1-score of 0.81 and slighly better computation time of XGboost. As for the features: The category has the greatest influence on the success of a project. As part of the EDA,  the `median_avg_pledge_per_backer_in_subcat` feature is designed. This feature gives an understanding of how much money the average backer in an sub category is willing to back a project. This has great influence on the success rate of a project. 
 
 ## Future Work
 
